@@ -1,8 +1,8 @@
 #Pedometer
 
 IOS Pedometer
+
 **Features**
- Pedometer
  
  - Steps
  - Distance
